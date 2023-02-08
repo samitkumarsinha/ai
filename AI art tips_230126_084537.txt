@@ -1,0 +1,408 @@
+https://www.betchashesews.com/midjourney-portraits/
+
+Deep dream generator
+List of ai
+Demandsage.com/ai-image-generators
+
+Prompt parameter
+https://midjourney.gitbook.io/docs/imagine-parameters
+--beta = new experimental algorithm for higher quality output
+--no = negative prompting to not include any specific objects
+--s = The stylize argument sets the strength of the stylization
+--q = sets the quality of the output
+--chaos = includes an option to add randomness to the output
+--seed = sets the starting point from a specific already rendered image (each image has a unique ID), This is great if you want a consistent perspective
+-------------
+
+Use comma for soft break and double colon for hard breaks in prompts
+--aspect or --ar > --ar 3:2
+--hd
+--wallpaper 
+--version or --v > --v4
+--no > vibrant california poppies --no grass
+
+--stop > vibrant california poppies --stop 50
+
+--uplight > used for upscale images, maintain similarity 
+--seed > --seed 0987
+--sameseed > any positive integer
+--stylize or --s > number, default 2500, range 625 to 60000
+--quality or --q number 1 is default, range 0.25 to 5
+--iw 0.25 default
+https://dots.jpg vibrant california poppies --iw 5
+
+--w for width 256 to 2034
+--h for height 256 to 2034
+--hd and --wallpaper for best quality
+Prompts
+
+https://mpost.io/top-50-text-to-image-prompts-for-ai-art-generators-midjourney-and-dall-e/
+
+ The seven major forms of art are 
+painting - impressionism
+Surrealism Expressionism
+Pop art 
+-----
+sculpture
+Modeling casting assembling carving
+-----
+architecture
+
+literature, 
+music,
+funk, blues, hip-hop, pop, rock, electronic, gospel, country, and indie 
+-----
+cinema
+theater
+
+Art forms
+• Classical
+• Renaissance
+• Gothic
+• Baroque
+• Neoclassical
+• Bauhaus
+• Victorian
+• Modern
+Dystopian, futuristic, cyberpunk, steampunk, biopunk, dieselpunk, solar punk,  stone punk, bronzepunk, clockpunk, raypunk, candle punk, atompunk, lunarpunk, biopunk
+Other punks are
+Elfpunk
+Mythpunk
+Cyberprep 
+Nowpunk
+Teslapunk
+Iron punk
+Sandalpunk
+Rococopunk
+Cassette futurism
+Formicapunk
+Steelpunk
+Atompunk
+Decopunk
+Cybernetic
+Cyber noir
+Tech noir
+Postcyberpunk
+Nanopunk
+
+• Post-modern
+Contemporary 
+Photography
+Digital art
+Gas mask
+Street art
+
+-----------------'
+Historical era words
+[  ] Primitive society, antiquity, middle ages, renaissance, modern world, contemporary, future
+-------------------
+Lightning words
+accent lighting, backlight, blacklight, blinding light, candlelight, concert lighting, crepuscular rays, direct sunlight, dusk, Edison bulb, electric arc, fire, fluorescent, glowing, glowing radioactively, glow-stick, lava glow, moonlight, natural lighting, neon lamp, nightclub lighting, nuclear waste glow, quantum dot display, spotlight, strobe, sunlight, ultraviolet, dramatic lighting, dark lighting, soft lighting
+_______________
+Detail words
+highly detailed, grainy, realistic, unreal engine, octane render, bokeh, vray, houdini render, quixel megascans, depth of field (or dof), arnold render, 8k uhd, raytracing, cgi, lumen reflections, cgsociety, ultra realistic, volumetric fog, overglaze, analog photo, polaroid, 100mm, film photography, dslr, cinema4d, studio quality
+________________
+Historical art styles
+Abstract, Medieval art, Renaissance, Baroque, Rococo, Neoclassicism, Romanticism, Impressionism, post-Expression, Cubism, Futurism, Art Deco, Abstract Expressionism, Contemporary, pop art, surrealism, fantasy
+---------------------
+Artistic techniques and materials
+Digital art, digital painting, color page, featured on pixiv (for anime/manga), trending on artstation, precise line-art, tarot card, character design, concept art, symmetry, golden ratio, evocative, award winning, shiny, smooth, surreal, divine, celestial, elegant, oil painting, soft, fascinating, fine art
+-------------------------
+Camera view
+ultra wide-angle, wide-angle, aerial view, massive scale, street level view, landscape, panoramic, bokeh, fisheye, dutch angle, low angle, extreme long-shot, long shot, close-up, extreme close-up
+_____________
+Resolution
+highly detailed, depth of field (or dof), 4k, 8k uhd, ultra realistic, studio quality. 
+______________
+Age criteria
+Baby 
+toddler 
+Young
+Teenage
+Middle-aged
+Old
+_______________
+young girl :: in the style of a mary engelbreit + mary borgman :: colorful colored pencil + ink drawing
+
+pakistani activist malala yousafzai :: portrait :: simple yet detailed :: black and white ink sketch :: ‐‐s 1000 ‐‐v 3
+
+punk rock fred flintstone :: mugshot :: in the style of jamie hewlett :: ‐‐uplight
+
+Mix of two
+• person one :: person/animal/thing two (e.g., rihanna :: llama)
+
+• half person one, half person two (e.g., half marilyn monroe, half charlie manson)
+
+Include raphaelite for best images
+oprah winfrey :: raphaelite portrait in the style of john singer sargent
+
+futuristic portrait of yoko ono :: 8k :: in the style of ephk :: ultra realistic :: octane render
+
+Maintain Keep it simple sweetheart formula 
+
+dolly parton :: portrait :: close up :: paper doll :: circa 1982
+
+_____________
+SOME WORDS FOR MIDJOURNEY PROMPTS THAT CAN GENERATE INTERESTING OUTPUTS
+
+• Action Figure
+• Alien
+• Angel
+• Barbarian
+• Centaur
+• Cheerleader
+• Cherub
+• Clown
+• Cowboy
+• Cyborg
+• Demon
+• Devil
+• Doll
+• Drag Queen
+• Fairy
+• Ghost
+• Goblin
+• Goddess
+• Gnome
+• Gremlin
+• Jester
+• Joker
+• King
+• Knight
+• Leprechaun
+• Mecha
+• Mermaid
+• Monster
+• Mummy
+• Ninja
+• Orc
+• Pirate
+• Queen
+• Robot
+• Saint
+• Skeleton
+• Soldier
+• Spirit
+• Superhero
+• Toy
+• Troll
+• Vampire
+• Witch
+• Wizard
+• Zombie
+-----------------------------
+Paint style
+• Abstract Expressionism
+• Acrylic Painting
+• Anime
+• Arts & Crafts
+• Art Deco
+• Art Nouveau
+• Assemblage
+• Atelier Populaire
+• Avant-Garde
+• Ballpoint Pen Art
+• Baroque
+• Bauhaus
+• Belle Époque
+• Biomorphic
+• Brocade
+• Brushwork
+• Byzantine
+• Caricature
+• Cartes-de-Visite
+• Cartoon
+• Celluloid
+• Charcoal Drawing
+• Chiaroscuro
+• Chromogenic Color Print
+• Classicism
+• CoBrA
+• Collage
+• Conceptual Art
+• Constructivism
+• Cubism
+• Dadaism
+• Daguerreotype
+• De Stijl
+• Der Blaue Reiter
+• Diptych
+• Divisionism
+• Doodle
+• Double Exposure
+• Drypoint
+E–N
+
+• École des Beaux-Arts
+• Encaustic Painting
+• Engraving
+• Etching
+• Expressionism
+• Exquisite Corpse
+• Fauvism
+• Foreshortening
+• Fresco
+• Frottage
+• Futurism
+• Gelatin Silver Print
+• Geometric
+• Glass Painting
+• Gond Painting
+• Gouache
+• Grotesque
+• Halftone
+• Harlem Renaissance
+• Hieroglyphics
+• Impasto
+• Impressionism
+• Ink Drawing
+• Kalamkari Painting
+• Kinetograph
+• Lacquer
+• Line Drawing
+• Lithograph
+• Lomo Photography
+• Madhubani Painting
+• Manga
+• Minimalism
+• Monochrome
+• Needlepoint
+• Neo-Impressionism
+• Neoclassicism
+• Neue Sachlichkeit
+
+O–Z
+
+• Oil Painting
+• Old Master
+• Op Art
+• Paint Splatter
+• Papier-Collé
+• Paper Cutting
+• Papier-Mâché
+• Pencil Sketch
+• Phad Painting
+• Pixar
+• Pixel Art
+• Photogravure
+• Pointillism
+• Pop Art
+• Post-Impressionism
+• Post-Modernism
+• Raphaelite
+• Renaissance
+• Rococo
+• Screenprint
+• Sculpture
+• Steampunk
+• Stencil
+• Surrealism
+• Suprematism
+• Tissue Paper
+• Triptych
+• Trompe L’oeil
+• Warli Painting
+• Watercolor
+• Woodcuts / Wood Block Prints
+• Works Progress Administration
+• Ziggurat
+
+______________
+LIST OF WELL-KNOWN PORTRAIT ARTISTS FOR MAKING MIDJOURNEY FACES
+
+A–D
+
+• John Samuel Agar 
+• Sofonisba Anguissola
+
+• Pietro Annigoni
+• Giuseppe Arcimboldo
+• Francis Bacon
+• Elizabeth Bakewell
+• H. Walter Barnett
+• J. M. Barrie
+• Vanessa Bell
+• Giovanni Bellini
+• Gustave Caillebotte
+• Caravaggio
+• Paul Cézanne
+• Chuck Close
+• Petrus Christus
+• Joseph Collyer the Younger 
+• Agnolo di Cosimo
+• Jeanne Bernard Dabos
+• William Daniell
+• Jacques-Louis David
+• Edgar Degas
+• Eugène Delacroix
+• Otto Dix
+• Emilio P. Fiaschi
+• Lucian Freud
+• Roger Fry
+
+G–R
+
+• Paul Gauguin
+• Artemisia Gentileschi
+• Shadi Ghadirian
+• Vincent van Gogh
+• Francisco Goya
+• George Henry Harlow
+• Jean Auguste Dominique Ingres
+• Frida Kahlo
+• Walter Keane
+• Gustav Klimt
+• Pyotr Konchalovsky
+• Jan Lievens
+• August Macke
+• Édouard Manet
+• Henri Matisse
+• Quentin Matsys
+• Anton Raphael Mengs
+• Elizabeth Peyton
+• Pablo Picasso
+• Raphael
+• Pierre-Auguste Renoir
+• Rembrandt van Rijn
+• Norman Rockwell
+
+S–Z
+
+• John Singer Sargent
+• Jenny Saville
+• Egon Schiele
+• Amy Sherald
+• Cindy Sherman
+• Ralph Steadman
+• Gilbert Stuart
+• Diego Velázquez
+• Johannes Vermeer
+• Leonardo da Vinci
+• Andy Warhol
+• Kehinde Wiley
+• James McNeill Whistler
+• Grant Wood
+• Andrew Wyeth
+• Craig Wylie
+• Jonathan Yeo
+
+_____________________
+Image types
+• school photo
+• headshot (commercial headshot, legit headshot, theatrical headshot, etc.)
+• selfie / self portrait
+• glamour shot
+• passport photo
+• yearbook photo
+• driver’s license photo
+• polaroid
+• ID photo
+• head and shoulders picture
+• wanted poster
+• Environmental portrait
+• Mugshot
+
+________________
+Stable diffusion art style
+https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=ab624266c6a44413b42a6c57a41d828c
+____________
